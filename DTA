@@ -6,3 +6,4 @@ GraphscoreDTA：
 有代码和测试数据，无数据处理。
 Fusion Model：
 也是怪味的，3D CNN+cnn的晚融合。
+有现成数据处理和代码。
